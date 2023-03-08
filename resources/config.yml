@@ -1,1 +1,29 @@
+JoinMessage: "§aIm a JoinMessage"
 
+Health: "20"
+
+Show/Hide Player: "§cHide/Show Item"
+
+HideUITitle: "Im The Hide UI Title"
+
+ShowPlayer: "im The Show Player Button"
+
+HidePlayer: "Im The Hide Player Button"
+
+ShowPlayerMessage: "you see now all players"
+
+HidePlayerMessage: "you see now no more players"
+
+Games: "§cGame Selector"
+
+GamesTitle: "Im The Top of The Games"
+
+GameName1: "Im The Name Of The First Game"
+
+GameName2: "Im The Name Of The Second Game"
+
+Server1IP: ""
+
+Server2IP: ""
+
+#KyzoufnrV1.0
